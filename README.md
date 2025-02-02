@@ -1,6 +1,6 @@
 ### Barbershop Connect ✂️📱
 
-Une application mobile développée en **React Native** avec **ExpoGo** pour connecter les clients aux barbershops.
+Une application mobile développée en **React Native** avec **ExpoGo** pour testé.
 
 ---
 
