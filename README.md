@@ -7,7 +7,7 @@ Une application mobile développée en **React Native** avec **ExpoGo** pour tes
 ### **Fonctionnalités principales :**
 
 1. **Page d'accueil 🏠**  
-   - Message de bienvenue : "Bonjour, bienvenue sur Barbershop Connect !"  
+   - Message de bienvenue : "Bonjour, bienvenue sur BarbershopAdventure !"  
    - Options : **Se connecter** ou **S'inscrire**.  
    - En bas de la page : présentation des barbershops avec des images attractives ✨.
 
