@@ -1,4 +1,4 @@
-### Barbershop Connect ✂️📱
+### BarbershopAdventure ✂️📱
 
 Une application mobile développée en **React Native** avec **ExpoGo** pour testé.
 
